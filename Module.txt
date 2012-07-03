@@ -1,0 +1,10 @@
+Name: ExploreEngine.Thumbs
+AntiForgery: enabled
+Author: Jose Marmolejos
+Website: http://www.uxworkshop.net
+Version: 0.7
+OrchardVersion: 1.0
+Description: Description for the module
+Features:
+    ExploreEngine.Thumbs:
+        Description: Description for feature ExploreEngine.Thumbs.
